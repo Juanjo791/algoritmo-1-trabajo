@@ -6,3 +6,4 @@ trabajo grupal
 SamrtPark UdeA: es un proyecto educativo innovador que busca transformar el concepto tradicional de parqueadero en un espacio inteligente, sostenible y formativo dentro de la universidad de Antioquia.
 #Licencia del Software : This work by E is marked with CC0 1.0. To view a copy of this license, visit https://creativecommons.org/publicdomain/zero/1.0/
 plan de proyecto: presupuesto valor de hora: 6388mil horas del pryecto en reuniones semenales 7 horas totales:44.716mil pesos horas totales en reuniones de actas 4horas totales #valor total 25.552 
+# hola 
